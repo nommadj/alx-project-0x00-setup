@@ -1,0 +1,26 @@
+{
+  "name": "alx-project-0x00",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nommadj/alx-project-0x00-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nommadj/alx-project-0x00-setup/issues"
+  },
+  "homepage": "https://github.com/nommadj/alx-project-0x00-setup#readme",
+  "description": "",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^8.37.0",
+    "@typescript-eslint/parser": "^8.37.0",
+    "eslint": "^9.31.0",
+    "typescript": "^5.8.3"
+  }
+}
